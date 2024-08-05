@@ -1,0 +1,67 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.3.7
+Date: 8.19.2020
+  Features:
+    - Fixed bug where fuel was sometimes voided
+    - Added map icon
+---------------------------------------------------------------------------------------------------
+Version: 1.3.6
+Date: 8.19.2020
+  Features:
+    - Fix migrations error
+---------------------------------------------------------------------------------------------------
+Version: 1.3.5
+Date: 8.19.2020
+  Features:
+    - Increased laser range even more
+    - Added resistances to bob's damage types
+---------------------------------------------------------------------------------------------------
+Version: 1.3.4
+Date: 8.18.2020
+  Features:
+    - Reduce UPS usage 100 times
+---------------------------------------------------------------------------------------------------
+Version: 1.3.3
+Date: 8.16.2020
+  Features:
+    - Removed red border from reactor
+    - Changed walking animation
+---------------------------------------------------------------------------------------------------
+Version: 1.3.2
+Date: 8.16.2020
+  Features:
+    - Changed item order to be next to spidertron
+    - Changed item order for laser ammo to be with the rest of the cannon shells
+    - Recipe now requires one reactor instead of two
+---------------------------------------------------------------------------------------------------
+Version: 1.3.1
+Date: 8.16.2020
+  Features:
+    - Tarantulator no longer cycles through diffrent weapons
+    - Reduced rifle round stack size to 100
+    - Renamed sniper rifle to laser cannon
+    - Changed icons for laser cannon and laser ammo
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 8.16.2020
+  Features:
+    - Tarantulator's equipment grid now has a permanant nuclear reactor
+    - Changed equipment grid size from 12x6 to 10x8
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 8.15.2020
+  Features:
+    - Tarantulator's equipment grid now gets all power from the nuclear reactor
+    - Added proper icons for tarantulator laser gun and ammo
+    - Added technology description
+    - Reduced tarantulator movement energy
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 8.15.2020
+  Features:
+    - Tarantulator now uses a giant laser instead of a big gun
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 8.15.2020
+  Features:
+    - Initial release
